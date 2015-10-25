@@ -5,7 +5,6 @@ This code book summarizes the resulting data fields in TidyData.txt.
 ##Identifiers
 
   subject - ID of the test subject 
-  
   activity - Type of activity performed when the corresponding measurements  taken
 
 ##Activity Labels
