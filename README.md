@@ -13,7 +13,7 @@ run_analysis.R is created to do the following
     Appropriately labels the data set with descriptive activity names.
     Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-#Before running the code:
+##Before running the code:
 
 Change line 3 of the code to your own working directory
 
